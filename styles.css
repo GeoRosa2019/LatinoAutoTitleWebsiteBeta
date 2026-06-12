@@ -16,3 +16,8 @@ footer {
 footer a {
   color: #007bff;
 }
+
+.brand img {
+  max-height: 50px !important;
+  width: auto !important;
+}

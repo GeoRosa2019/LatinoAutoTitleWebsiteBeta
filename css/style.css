@@ -246,6 +246,11 @@ nav ul.dropdown-list
   z-index: 9999;
 }
 
+.brand img {
+  max-height: 50px;
+  width: auto;
+}
+
 .mobile ul.nav-list.open
 {
   opacity: 1;
@@ -423,7 +428,7 @@ nav ul.dropdown-list
 /*----------------- Hero section styling ----------------*/
 .hero
 {
-	background: linear-gradient(rgba(150, 60, 221, 0.4), rgba(22, 104, 184, 0.9)), url("../img/hero-bg.jpg");
+	background: linear-gradient(rgba(17, 26, 210, 0.4), rgba(22, 104, 184, 0.9)), url("../img/hero-bg.png");
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -588,7 +593,7 @@ nav ul.dropdown-list
 /*----------------- Overline section styling ---------------*/
 .overline
 {
-	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/hero-bg.jpg");
+	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/hero-bg.png");
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -662,7 +667,7 @@ nav ul.dropdown-list
 /*----------------- Testimonial section styling --------------*/
 .testimonial
 {
-	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/hero-bg.jpg");
+	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/hero-bg.png");
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -808,7 +813,7 @@ footer
 
 	.hero
 	{
-		background: linear-gradient(rgba(150, 60, 221, 0.2), rgba(13, 14, 56, 0.9)), url("../img/hero-bg.jpg");
+		background: linear-gradient(rgba(150, 60, 221, 0.2), rgba(13, 14, 56, 0.9)), url("../img/hero-bg.png");
 		background-position: center top;
 		background-repeat: no-repeat;
 		background-size: cover;

@@ -713,14 +713,9 @@ nav ul.dropdown-list
 	text-align: center;
 }
 
-.agent-img {
-  width: 175px;
-  height: 175px;
-  border-radius: 50%;
-  object-fit: cover;
-  display: block;
-   margin: 0 auto;
-   object-position: center top;
+.agent-img
+{
+	border-radius: 50%;
 }
 
 .agent-name
